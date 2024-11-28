@@ -2,6 +2,10 @@
 
 This project implements a mintable ERC20 token called Degen, designed for a gaming studio to manage in-game assets.
 
+## ⚠️ Important API Notice
+Please note that the Snowtrace API functionality described in GUIDE.md is not available in the free tier.
+
+
 ## Description
 
 The Degen Token is an ERC20 token that allows the owner to mint tokens as needed. It is built using the OpenZeppelin library for secure smart contract development. This project demonstrates how to deploy and interact with the token on the Avalanche network.
