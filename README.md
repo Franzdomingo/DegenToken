@@ -33,6 +33,14 @@ The Degen Token is an ERC20 token that allows the owner to mint tokens as needed
    npx hardhat test test/DegenToken.test.js
    ```
 
+
+## Transaction Address
+
+As proof of completion, here is the transaction address for the deployment:
+- **Transaction Address:** `0x4C654a10704ba41b1F683b3D7f449bBF3DBCeBf1`
+- **Contract Code (Snowtrace Proof):** https://testnet.snowtrace.io/address/0x4C654a10704ba41b1F683b3D7f449bBF3DBCeBf1/contract/43113/code
+
+
 ## Help
 
 For common issues, ensure that you have the correct network configuration in your `hardhat.config.js` file and that your wallet is funded with test AVAX for deployment.
